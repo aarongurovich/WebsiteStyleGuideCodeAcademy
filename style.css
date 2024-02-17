@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Kode+Mono:wght@400..700&family=Micro+5&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+#one{
+    text-align: left;
+}
+body{
+    background-color: cornsilk;
+}
+
+Header{
+    width:100%;
+    text-align: center;
+    margin-top: 20px;
+}
+h2{
+    width:100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.colors, .fonts{
+    border: 5px solid black;
+    background-color: bisque;
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.chocolate{
+    background-color: #D2691E;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+    display: inline-block;
+    
+}
+
+.blueviolet{
+    background-color: #8A2BE2;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.cadetblue{
+    background-color: #5F9EA0;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.azure{
+    background-color: #F0FFFF;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.firebrick{
+    background-color: #B22222;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.lightgreen{
+    background-color: #90EE90;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.font1{
+    background-color: white;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.font2{
+    background-color: white;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.font3{
+    background-color: white;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.font4{
+    background-color: white;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.font5{
+    background-color: white;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.font6{
+    background-color: white;
+    width: 31%;
+    height: 200px;
+    text-align: center;
+    margin-left: 10px;
+    border: 3px solid black;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.font1 h3{
+    margin-left: 5px;
+    font-family: RaleWay;
+    text-decoration: underline;
+     
+}
+
+.font2 h3{
+    margin-left: 5px;
+    font-family: Poppins;
+    text-decoration: underline;
+     
+}
+
+.font3 h3{
+    margin-left: 5px;
+    font-family: Micro 5;
+    text-decoration: underline;
+     
+}
+
+.font4 h3{
+    margin-left: 5px;
+    font-family: Anta;
+    text-decoration: underline;
+     
+}
+
+.font5 h3{
+    margin-left: 5px;
+    font-family: Kodo Mono;
+    text-decoration: underline;
+     
+}
+
+.font6 h3{
+    margin-left: 5px;
+    font-family: Roboto;
+    text-decoration: underline;
+     
+}
+
+.font1 p{
+    margin-left: 5px;
+    font-family: RaleWay;
+    font-size: small;
+     
+}
+
+.font2 p{
+    margin-left: 5px;
+    font-family: Poppins;
+    font-size: small;
+     
+}
+
+.font3 p{
+    margin-left: 5px;
+    font-family: Micro 5;
+    font-size: small;
+     
+}
+
+.font4 p{
+    margin-left: 5px;
+    font-family: Anta;
+    font-size: small;
+     
+}
+
+.font5 p{
+    margin-left: 5px;
+    font-family: Kodo Mono;
+    font-size: small;
+     
+}
+
+.font6 p{
+    margin-left: 5px;
+    font-family: Roboto;
+    font-size: small;
+     
+}
+
+.textstyles{
+    border: 5px solid black;
+    background-color: bisque;
+    width: 500px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-panel{
+    margin-left: 10px;
+}
+
+ul{
+    list-style-type: none;
+
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
